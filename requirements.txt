@@ -6,4 +6,8 @@ pickle4
 numpy
 matplotlib
 scikit-learn
+uvicorn
+FastAPI
+jinja2
+python-multipart
 #-e .

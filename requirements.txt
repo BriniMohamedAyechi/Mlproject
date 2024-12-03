@@ -1,9 +1,9 @@
 pandas
 seaborn
+catboost
+xgboost
+pickle4
 numpy
 matplotlib
 scikit-learn
-catboost
-xgboost
-pickle
 #-e .
